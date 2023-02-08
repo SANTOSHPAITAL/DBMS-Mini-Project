@@ -1,7 +1,5 @@
 # DBMS-Mini-Project
 .
-
-
 HOTEL MANAGEMENT SYSTEM PROJECT (Administrative Control) 
 using: Java swing, JDBC, MySQL
 
